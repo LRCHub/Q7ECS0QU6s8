@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "ふたりぶん",
+  "base_artist": "shallm",
+  "createdAt": "2025-12-01T15:40:12.006537Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ふたりぶんの背景画",
+      "artist": "河合 その子",
+      "has_synced": false,
+      "path": "select/pl_01_ふたりぶんの背景画_河合_その子.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ふたりぶん",
+      "artist": "河合 その子",
+      "has_synced": false,
+      "path": "select/pl_02_ふたりぶん_河合_その子.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "2人分の朝食",
+      "artist": "河合 その子",
+      "has_synced": false,
+      "path": "select/pl_03_2人分の朝食_河合_その子.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "二人分の涙",
+      "artist": "河合 その子",
+      "has_synced": false,
+      "path": "select/pl_04_二人分の涙_河合_その子.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "ふたり分の静寂",
+      "artist": "河合 その子",
+      "has_synced": false,
+      "path": "select/pl_05_ふたり分の静寂_河合_その子.txt"
+    }
+  ]
+}
